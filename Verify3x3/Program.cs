@@ -45,6 +45,8 @@ namespace Verify3x3
             Console.WriteLine(IsMagicSquare(new List<int>{2, 7, 6, 9, 5, 1, 4, 3, 8}));
             Console.WriteLine(IsMagicSquare(new List<int>{3, 5, 7, 8, 1, 6, 4, 9, 2}));
             Console.WriteLine(IsMagicSquare(new List<int>{8, 1, 6, 7, 5, 3, 4, 9, 2}));
+            Console.WriteLine(IsMagicSquare(new List<int>{4, 9, 2, 3, 5, 7, 8, 1, 6}));
+            
             
             Console.Read();
         }
